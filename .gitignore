@@ -1,0 +1,21 @@
+# СЕКРЕТЫ
+.env
+*.env
+
+# FAISS индексы (тяжелые!)
+faiss_index/
+faiss_index_e5/
+
+# Видео (очень тяжёлые!)
+*.mp4
+*.avi
+*.mov
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# Кэш
+.cache/
+venv/
