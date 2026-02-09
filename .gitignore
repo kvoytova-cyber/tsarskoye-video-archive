@@ -2,11 +2,11 @@
 .env
 *.env
 
-# FAISS индексы (тяжелые!)
+# FAISS индексы
 faiss_index/
 faiss_index_e5/
 
-# Видео (очень тяжёлые!)
+# Видео 
 *.mp4
 *.avi
 *.mov
